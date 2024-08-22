@@ -1,0 +1,19 @@
+.Model-3 {
+  font-family: "Montserrat";
+  font-optical-sizing: auto;
+  font-weight: 400; /* Adjust to your desired weight */
+  font-style: normal;
+  font-weight: bold;
+}
+
+.order-online {
+  font-weight: normal; /* Use 'normal' instead of 'none' */
+  font-size: small;
+
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+
