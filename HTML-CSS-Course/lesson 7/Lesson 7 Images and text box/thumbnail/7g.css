@@ -1,0 +1,30 @@
+.search-bar{
+  color: grey;
+  font-size: 18px;
+  border: none;
+  width: 300px;
+  vertical-align: middle;
+}
+
+.python-logo{
+  width: 50px;
+  height: 50px;
+  vertical-align: middle;
+  margin-right: 5px;
+  border-radius: 25px;
+}
+
+.tweet-icon {
+  width: auto; /* Allow button width to fit the text */
+  height: auto; /* Adjust height if necessary */
+  vertical-align: middle;
+  margin-right: 5px;
+  background-color: rgb(29, 155, 240); /* Blue background */
+  color: white; /* White text color */
+  border: none;
+  border-radius: 30px;
+  padding: 8px 16px; /* Uniform padding */
+  cursor: pointer;
+  font-size: 16px; /* Ensures text is visible */
+  line-height: 1; /* Adjust line height if needed */
+}
