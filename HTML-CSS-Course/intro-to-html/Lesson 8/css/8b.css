@@ -1,0 +1,18 @@
+.text {
+  display: inline-block;
+  width: 200px;
+  vertical-align: middle;
+}
+
+
+.text {
+  display: flex; /* Enables Flexbox */
+  align-items: center; /* Aligns items vertically center */
+  gap: 10px; /* Adds space between elements */
+  padding: 10px; /* Adds padding to prevent content from touching the edges */
+}
+
+/* Optionally style buttons */
+.text {
+  padding: 5px 10px;
+}
