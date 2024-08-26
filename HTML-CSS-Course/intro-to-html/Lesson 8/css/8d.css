@@ -1,0 +1,31 @@
+.First-name1 {
+  width: 148px;
+  margin-bottom: 10px;
+}
+
+.First-name2 {
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+.Sign-up {
+  background-color: blue; /* Corrected background-color */
+  color: white;
+  border-width: 1px; /* Corrected border-width */
+  border-style: solid; /* Added border-style */
+  border-color: white; /* Added border-color to match text */
+  width: 200px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-radius: 8px;
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+
+.email {
+  display: block;
+  width: 258px;
+  margin-bottom: 10px;
+}
