@@ -1,5 +1,17 @@
-.blue-box {
+.flexbox {
+  display: flex;
+  flex-direction: row;
+
+}
+
+
+.lightblue {
   background-color: lightblue;
   flex: 2;
 
+}
+
+.lightpink {
+  background-color: lightpink;
+  flex: 1;
 }
